@@ -760,6 +760,10 @@ address {
 }
 
 .modal-field:last-child {
+  margin-bottom: 0;
+}
+
+.form-comment {
   margin-bottom: 20px;
 }
 
